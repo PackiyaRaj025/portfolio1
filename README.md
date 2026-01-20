@@ -2,9 +2,6 @@
 
 A responsive, clean, and modern personal portfolio website built with HTML, CSS, JavaScript, and Bootstrap. The site showcases my skills, projects, education, and contact information.
 
-## 🌐 Live Demo
-[**View Portfolio Live**](https://packiyaraj025.github.io/portfolio/)
-
 ## 📌 Features
 - Fully responsive design for mobile, tablet, and desktop
 - Smooth scroll navigation with Bootstrap navbar
@@ -22,15 +19,22 @@ A responsive, clean, and modern personal portfolio website built with HTML, CSS,
 
 ## 📂 Project Structure
 portfolio/
-├── index.html # Main HTML file
-├── style.css # Custom CSS
-├── script.js # JavaScript for animations
-├── projects-bg-images/ # Project preview images
-│ ├── food-munch-bg-image.png
-│ ├── Todos-bg-image.png
-│ └── Wekipidia-bg-image.png
-└── README.md
 
+├── index.html # Main HTML file
+
+├── style.css # Custom CSS
+
+├── script.js # JavaScript for animations
+
+├── projects-bg-images/ # Project preview images
+
+│ ├── food-munch-bg-image.png
+
+│ ├── Todos-bg-image.png
+
+│ └── Wekipidia-bg-image.png
+
+└── README.md
 
 ## 📁 Sections
 1. **Home** – Animated introduction
@@ -59,3 +63,4 @@ Email: packiyaraj025@gmail.com
 GitHub: @PackiyaRaj025
 
 LinkedIn: Packiyaraj V
+
